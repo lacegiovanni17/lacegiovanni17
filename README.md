@@ -16,17 +16,17 @@
   </tr>
  </p>
  
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chizobavictory" alt="chizobavictory" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lacegiovanni17" alt="chizobachidike" /></a> </p>
 
 - 🔭 I’m currently working with Decagon Hq**
 - 🌱 I work with **Node JS**
 - 💬 Ask me about **TypeScript, Express, React, Backend and Frontend development**
-- 📫 How to reach me **chizoba.victory1@gmail.com**
+- 📫 How to reach me **dk1online25@gmail.com**
 - ⚡ Fun fact **I love football**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chizoba_victory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chizoba_victory" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chizoba-victory/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chizoba Victory Linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/chizoba_victory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lacegiovanni17" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chizoba-victory/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chizoba Chidike Linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_zobs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_zobs" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -44,9 +44,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/chizobavictory">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chizobavictory&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chizobavictory&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/lacegiovanni17">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lacegiovanni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lacegiovanni&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
