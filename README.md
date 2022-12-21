@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chizoba Victory</h1>
+<h1 align="center">Hi 👋, I'm Chizoba Henry Chidike</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
  <p align="center">
-<img src="https://www.codewars.com/users/chizobavictory/badges/large" alt="Chizoba Victory Codewars Badge">
+<img src=https://www.codewars.com/users/lacegiovanni17/badges/large alt="Chizoba Chidike Codewars Badge">
 </p>
 
 <p align="center">
