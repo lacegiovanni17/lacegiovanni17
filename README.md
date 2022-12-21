@@ -16,7 +16,7 @@
   </tr>
  </p>
  
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lacegiovanni17" alt="chizobachidike" /></a> </p>
+ <p align="center"> <a href="https://github.com/lacegiovanni17/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lacegiovanni17" alt="chizobachidike" /></a> </p>
 
 - 🔭 I’m currently working with Decagon Hq**
 - 🌱 I work with **Node JS**
