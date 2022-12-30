@@ -11,7 +11,7 @@
 
 <p align="center">
   <tr>
-    <th><a href="https://chizobavictorypalindromechecker.netlify.app">🏆 Achievements</a></th>
+    <th><a href="https://palindrome-checker-by-henry.netlify.app">🏆 Achievements</a></th>
     <th><a href="https://starwars-api-henry.netlify.app/">🎩 Notable contributions</a></th>
   </tr>
  </p>
