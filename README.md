@@ -19,8 +19,8 @@
  <p align="center"> <a href="https://github.com/lacegiovanni17/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lacegiovanni17" alt="chizobachidike" /></a> </p>
 
 - 🔭 I’m currently working with Decagon Hq**
-- 🌱 I work with **Node JS**
-- 💬 Ask me about **TypeScript, Express, React, Backend and Frontend development**
+- 🌱 I work with **Node JS**, **Laravel**, **DEVOPS** and **AWS**
+- 💬 Ask me about **TypeScript, Express, React, PHP, DevOps Backend and Frontend development**
 - 📫 How to reach me **dk1online25@gmail.com**
 - ⚡ Fun fact **I love football**
 <h3 align="left">Connect with me:</h3>
@@ -37,6 +37,12 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express Js" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="PHP" width="40" height="40"/> </a>
+<a href="https://www.laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/> </a>
+<a href="https://www.apache.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/> </a>
+<a href="https://www.getcomposer.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/> </a>
+<a href="https://www.nginx.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> </a>
+<a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> </a>
+<a href="https://www.kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/> </a>
 </p>
 
 
