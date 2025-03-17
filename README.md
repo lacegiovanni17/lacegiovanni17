@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chizoba Henry Chidike</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
+<h3 align="center">A Passionate Full-Stack Engineer | Cloud Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chizoba;A+MERN+stack+developer;with+Experience;building+unique+softwares;that+solves+problems;I+am+skilled+in+TypeScript;Javascript+,Node+JS+,Express;GraphQl+,React+,NextJS;MongoDB+,Postgres+,MsSQL;Oracle+,GCP+,AWS+,Docker;Kubernates+,VMware+,MCP;HTML/CSS+,PHP;and+many+others&font=Fira%20Code&center=true&width=380&height=50">
@@ -21,12 +21,14 @@
 - 🚀 I am a results-driven Full-Stack Software Engineer with years of experience delivering scalable cloud-based solutions.
 - 🔭 I’m currently working with Decagon Hq**
 - 🌱 I work with **Node JS**, **Laravel**, **DEVOPS** and **AWS**
-- 🔭 I’m currently working on AI-powered applications, Web3, and Cloud infrastructure.
-- 💬 Ask me about **TypeScript, Express, React, PHP, DevOps Backend and Frontend development**
-- 🏆 Proven track record of leading cross-functional teams, optimizing system performance, and automating critical business processes.
-- 📫 How to reach me **dk1online25@gmail.com**   https://chidike-website.netlify.app/
+- 🔭 I’m currently working on **AI-powered applications, Web3, and Cloud infrastructure**.
+- 💬 Ask me about **AI, Web3, Cloud Computing, DEVOPS, TypeScript, Express, React, PHP, DevOps Backend and Frontend development**
+- 🏆 Proven track record of **leading cross-functional teams, optimizing system performance, and automating critical business processes.**
+- 📫 How to reach me **dk1online25@gmail.com**
+- 💡 Adept at **architecting large-scale applications** and **aligning technical strategies with business goals.**
 - 🌍 Web **https://chidike-website.netlify.app/**
-- ⚡ Fun fact **I love football**
+- ⚡ Fun fact **I love football**⚽
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ChidikeC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lacegiovanni17" height="30" width="40" /></a>
