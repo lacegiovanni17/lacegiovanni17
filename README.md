@@ -18,10 +18,14 @@
  
  <p align="center"> <a href="https://github.com/lacegiovanni17/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lacegiovanni17" alt="chizobachidike" /></a> </p>
 
+- 🚀 I am a results-driven Full-Stack Software Engineer with years of experience delivering scalable cloud-based solutions.
 - 🔭 I’m currently working with Decagon Hq**
 - 🌱 I work with **Node JS**, **Laravel**, **DEVOPS** and **AWS**
+- 🔭 I’m currently working on AI-powered applications, Web3, and Cloud infrastructure.
 - 💬 Ask me about **TypeScript, Express, React, PHP, DevOps Backend and Frontend development**
-- 📫 How to reach me **dk1online25@gmail.com**
+- 🏆 Proven track record of leading cross-functional teams, optimizing system performance, and automating critical business processes.
+- 📫 How to reach me **dk1online25@gmail.com**   https://chidike-website.netlify.app/
+- 🌍 Web **https://chidike-website.netlify.app/**
 - ⚡ Fun fact **I love football**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
