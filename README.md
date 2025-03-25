@@ -26,6 +26,7 @@
 - 🏆 Proven track record of **leading cross-functional teams, optimizing system performance, and automating critical business processes.**
 - 📫 How to reach me **dk1online25@gmail.com**
 - 💡 Adept at **architecting large-scale applications** and **aligning technical strategies with business goals.**
+- 🌍 Web **https://dk-js-portfolio-website.vercel.app/**
 - 🌍 Web **https://chidike-website.netlify.app/**
 - ⚡ Fun fact **I love football**⚽
   
