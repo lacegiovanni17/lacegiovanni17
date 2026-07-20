@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Chizoba Henry Chidike</h1>
+<h1 align="center">Hi 👋, I'm Chidike Henry Chizoba</h1>
 <h3 align="center">A Passionate Full-Stack Engineer | Cloud Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chizoba;A+MERN+stack+developer;with+Experience;building+unique+softwares;that+solves+problems;I+am+skilled+in+TypeScript;Javascript+;Node+JS+;ExpressJS+;NestJS+;GraphQl+;React+;NextJS;MongoDB+;C#dotNET+;EntityFramework+;RUST+;PostgreSQL+,MsSQL;Oracle+,GCP+;AWS+,Docker;Kubernates+,VMware+,MCP;HTML/CSS+,PHP;and+many+others&font=Fira%20Code&center=true&width=380&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chizoba;A+MERN+stack+developer;with+Experience;building+unique+softwares;that+solves+problems;I+am+skilled+in+TypeScript;Javascript+;Node+JS+;ExpressJS+;NestJS+,GraphQl+,React+;NextJS;MongoDB+,Csharp_dotNET+,EntityFramework+,RUST+,PostgreSQL+,MsSQL;Oracle+,GCP+,AWS+,Docker;Kubernates+,VMware+,MCP;HTML/CSS+,PHP;and+many+others&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
  <p align="center">
