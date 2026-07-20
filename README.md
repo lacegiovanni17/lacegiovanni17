@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Engineer | Cloud Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Dike;A+MERN+stack+developer;with+Experience;building+unique+softwares;that+solves+problems;I+am+skilled+in+TypeScript;Javascript+;Node+JS+;ExpressJS+;NestJS+,GraphQl+,React+;RUST,dotNET,EntityFramework+;MongoDB+,PostgreSQL+,MsSQL;Oracle+,GCP+,AWS+,Docker;Kubernates+,VMware+,MCP;HTML/CSS+,PHP;and+many+others&font=Fira%20Code&center=true&width=380&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Dike;A+MERN+stack+developer;with+Experience;building+unique+softwares;that+solves+problems;I+am+skilled+in+;TypeScript,Javascript+;Node+JS+,ExpressJS+;RUST,dotNET,EntityFramework+;NestJS+,RestAPI,GraphQl+,React+;MongoDB+,PostgreSQL+,MsSQL;Oracle+,GCP+,AWS+,Docker;Kubernates+,VMware+,MCP;HTML/CSS+,PHP;and+many+others&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
  <p align="center">
